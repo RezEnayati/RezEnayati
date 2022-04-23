@@ -1,4 +1,4 @@
-### <div align="center">I'm Reza, CS student in NYC.</div>  
+### <div align="center">I'm Reza, a CS student in NYC.</div>  
   
 
 - 📱 I’m currently working on [Student Loan Calculator](https://github.com/CodepathIos/LoanCalc)  
