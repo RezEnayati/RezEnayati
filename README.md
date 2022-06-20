@@ -1,18 +1,3 @@
-### <div align="center">I'm Reza, a CS student in NYC.</div>  
-  
-
-- 📱 I’m currently working on [Student Loan Calculator](https://github.com/CodepathIos/LoanCalc)  
-  
-
-- 💡 I’m currently learning CoreML, CreateML and Machine Learning models in Swift.   
-  
-
-- ⚡  I'm currently trying to gain more experince with SwiftUi and app design patterns.   
-  
-
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
