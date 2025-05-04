@@ -1,6 +1,6 @@
 ## Hi, I'm Reza! 👋
 
-AI/ML Engineer & iOS Developer | CS Student at CSUN
+AI/ML Engineer & iOS Developer 
 
 I specialize in Machine Learning, Natural Language Processing, and building intelligent iOS applications. Currently focusing on transformer architectures, model fine-tuning, and exploring the frontiers of AI through hands-on research and development.
 
@@ -21,16 +21,8 @@ I specialize in Machine Learning, Natural Language Processing, and building inte
 
 - 🧠 Deep Learning & Neural Networks
 - 💬 Natural Language Processing & LLMs
-- 📱 iOS Development with ML Integration
-- 🚀 Building AI-powered Mobile Applications
-
-### 📊 GitHub Stats
-
-<p align="center">
-<a href="https://github.com/rezenayati">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezenayati&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=4B5563&text_color=8F8F8F"/>
-</a>
-</p>
+- - 🚀 Building AI-powered Mobile Applications
+- 📱 iOS Development
 
 ### 🌐 Connect with Me
 
