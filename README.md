@@ -32,9 +32,3 @@ I specialize in Machine Learning, Natural Language Processing, and building inte
 <a href="https://huggingface.co/rezaenayati"><img src="https://img.shields.io/badge/-Hugging%20Face-4B5563?style=flat&logo=HuggingFace&logoColor=white"/></a>
 <a href="mailto:r3zsoft@gmail.com"><img src="https://img.shields.io/badge/-r3zsoft@gmail.com-4B5563?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-
----
-
-<p align="center">
-  <i>Building intelligent solutions at the intersection of AI and mobile development</i>
-</p>
