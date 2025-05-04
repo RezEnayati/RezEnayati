@@ -29,8 +29,6 @@ I specialize in Machine Learning, Natural Language Processing, and building inte
 <p align="center">
 <a href="https://github.com/rezenayati">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezenayati&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=4B5563&icon_color=4B5563&text_color=8F8F8F"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezenayati&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0D1117&title_color=4B5563&text_color=8F8F8F"/>
-</a>
 </p>
 
 ### 🌐 Connect with Me
