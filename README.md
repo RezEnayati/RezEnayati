@@ -1,8 +1,8 @@
 ## Hi, I'm Reza! 👋
 
-AI/ML Engineer & iOS Developer 
+AI/ML
 
-I specialize in Machine Learning, Natural Language Processing, and building intelligent iOS applications. Currently focusing on transformer architectures, model fine-tuning, and exploring the frontiers of AI through hands-on research and development.
+I specialize in Machine Learning, Natural Language Processing, and building intelligent iOS applications. Currently focusing on transformer architectures, model fine-tuning, and exploring AI/ML through hands-on research and development.
 
 ### 🛠️ Technologies & Tools
 
