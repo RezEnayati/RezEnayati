@@ -19,7 +19,6 @@ Interested in ML, AI and iOS. :)
 
 - 🧠 Deep Learning & Neural Networks
 - 💬 Natural Language Processing & LLMs
-- 🚀 Building AI-powered Mobile Applications
 - 📱 iOS Development
 
 ### 🌐 Connect with Me
