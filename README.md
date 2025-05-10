@@ -22,7 +22,6 @@ Interested in ML, AI and iOS. :)
 - 📱 iOS Development
 
 ### 🌐 Connect with Me
-
 <p align="center">
 <a href="https://rezaenayati.co"><img src="https://img.shields.io/badge/-rezaenayati.co-4B5563?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://linkedin.com/in/rezaenayati"><img src="https://img.shields.io/badge/-Reza%20Enayati-4B5563?style=flat&logo=Linkedin&logoColor=white"/></a>
