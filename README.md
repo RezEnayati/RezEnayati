@@ -1,6 +1,6 @@
 ## Hi, I'm Reza! 👋
 
-Interested in ML, AI and iOS. :)
+Interested in ML, AI and iOS.
 
 ### 🛠️ Technologies & Tools
 
