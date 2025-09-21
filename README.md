@@ -27,7 +27,7 @@ Skilled software engineer with deep systems-level intuition and strong architect
 
 ### Specialties
 - **AI Systems Integration** (ML, AI)  
-- **Backend Engineering** (C#/.NET, Azure)  
+- **Backend Engineering** (C#/.NET, Flask, FastAPI, Spring, Azure, AWS, Firebase)  
 - **iOS Development** (Swift, SwiftUI, Core ML)
 ---
 
