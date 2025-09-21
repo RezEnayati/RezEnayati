@@ -1,9 +1,12 @@
 ## Hi, I'm Reza! 👋
 
-Interested in ML, AI and iOS.
+Member of Technical Staff @ koderAi
 
 ### 🛠️ Technologies & Tools
 
+![C#](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure&logoColor=0078D4)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=white)&nbsp;
@@ -18,9 +21,9 @@ Interested in ML, AI and iOS.
 
 ### 🔬 Current Focus
 
-- 🧠 Deep Learning & Neural Networks
-- 💬 Natural Language Processing & LLMs
-- 📱 iOS Development
+- Software Engineering
+- Machine Learning and AI Systems
+- iOS Development
 
 ### 🌐 Connect with Me
 <p align="center">
