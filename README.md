@@ -1,4 +1,4 @@
-## Hi, I'm Reza! 👋  
+## Reza Enayati 👋  
 **Member of Technical Staff @ [koderAI](https://koder.com)**
 
 Skilled AI & software engineer with deep systems-level intuition and strong architectural thinking across ML pipelines, backend infrastructure, and cross-platform development. Currently building agentic AI infrastructures and multi-model LLM integrations with a focus on reliability, cost-efficiency and accessibility.
