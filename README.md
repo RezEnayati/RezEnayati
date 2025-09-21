@@ -1,11 +1,11 @@
-## Reza Enayati 👋  
+## Reza Enayati 
 **Member of Technical Staff @ [koderAI](https://koder.com)**
 
 Skilled AI & software engineer with deep systems-level intuition and strong architectural thinking across ML pipelines, backend infrastructure, and cross-platform development. Currently building agentic AI infrastructures and multi-model LLM integrations with a focus on reliability, cost-efficiency and accessibility.
 
 ---
 
-### 🛠️ Technologies & Tools  
+### Technologies & Tools  
 <p align="center">
   <img src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=239120"/>
   <img src="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet&logoColor=512BD4"/>
@@ -25,13 +25,13 @@ Skilled AI & software engineer with deep systems-level intuition and strong arch
 
 ---
 
-### 🔬 Specialties
+### Specialties
 - **AI Systems Integration** (ML, AI)  
 - **Backend Engineering** (C#/.NET, Azure)  
 - **iOS Development** (Swift, SwiftUI, Core ML)
 ---
 
-### 🌐 Connect with Me  
+### Connect with Me  
 <p align="center">
   <a href="https://rezaenayati.co">
     <img src="https://img.shields.io/badge/-rezaenayati.co-4B5563?style=flat&logo=Google-Chrome&logoColor=white"/>
