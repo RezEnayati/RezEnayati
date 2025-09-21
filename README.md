@@ -1,5 +1,5 @@
 ## Hi, I'm Reza! 👋  
-**Member of Technical Staff @ [koderAI](https://koderai.com)**  
+**Member of Technical Staff @ [koderAI](https://koder.com)**  
 Aspiring AI Engineer | iOS Developer | Systems Thinker  
 
 ---
@@ -25,9 +25,9 @@ Aspiring AI Engineer | iOS Developer | Systems Thinker
 ---
 
 ### 🔬 Specialities 
-•	AI Systems Integration (ML, AI)
-•	Backend Engineering (C#/.NET, Azure)
-•	iOS Development (Swift, SwiftUI, Core ML)
+-AI Systems Integration (ML, AI)
+-Backend Engineering (C#/.NET, Azure)
+-iOS Development (Swift, SwiftUI, Core ML)
   
 ---
 
