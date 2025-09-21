@@ -1,6 +1,7 @@
 ## Hi, I'm Reza! 👋  
-**Member of Technical Staff @ [koderAI](https://koder.com)**  
-Aspiring AI Engineer | iOS Developer | Systems Thinker  
+**Member of Technical Staff @ [koderAI](https://koder.com)**
+
+Software Engineer | ML/AI Engineer
 
 ---
 
