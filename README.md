@@ -24,11 +24,10 @@ Aspiring AI Engineer | iOS Developer | Systems Thinker
 
 ---
 
-### 🔬 Specialities 
--AI Systems Integration (ML, AI)
--Backend Engineering (C#/.NET, Azure)
--iOS Development (Swift, SwiftUI, Core ML)
-  
+### 🔬 Specialties
+- **AI Systems Integration** (ML, AI)  
+- **Backend Engineering** (C#/.NET, Azure)  
+- **iOS Development** (Swift, SwiftUI, Core ML)
 ---
 
 ### 🌐 Connect with Me  
